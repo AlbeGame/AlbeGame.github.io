@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TeamE-Project",
+"dataUrl": "DCI v.1.0.3 web.data.unityweb",
+"asmCodeUrl": "DCI v.1.0.3 web.asm.code.unityweb",
+"asmMemoryUrl": "DCI v.1.0.3 web.asm.memory.unityweb",
+"asmFrameworkUrl": "DCI v.1.0.3 web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
